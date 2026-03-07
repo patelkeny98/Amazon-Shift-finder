@@ -33,4 +33,4 @@ jobs:
           HEADLESS: "true"
           SOUND_ALERT: "false"
           KEYWORDS: ""
-        run: python amazon_uk_shift_bot.py
+        run: python amazon_uk_shift_bot_gitAction.py
